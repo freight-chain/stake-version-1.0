@@ -28,17 +28,21 @@ If not on this list of addresses you must [add your address]
 - You must vote 'present' every month to get your bi-weekly stake
 - You can unlock your stacked $EDI every 15 days, at the end of the cycle.
 
-##Steps after every payout
+## Steps after every payout
 After the payout, you have 24hours to tell us what do you want to do. 
 
 Possible scenarios: 
+
 [We will send a form on telegram. On the payouts day]
+
 - [Default scenario] Your rewards will added to the total of your staked amount.
 - You can get your staking rewards.
 - You can choose the amount you want to unstake.
 
-##Steps after every 2 payouts
+## Steps after every 2 payouts
+
 [We will send a form on telegram. On the payouts day]
+
 - Vote present. (if you dont vote present, your amount will be send to your wallet)
 
 
