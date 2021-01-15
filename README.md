@@ -4,7 +4,7 @@ Gas less method. The stacking wallet only send $EDI to the people who want to ta
 
 ## Staking Requirements
 
-- You must send at least 200,000 \$EDI Tokens from the same address to the stacking address.
+- You must send at least 200,000 \$EDI Tokens (from the same address) to the stacking address.
 
 ## Staking Rewards
 
