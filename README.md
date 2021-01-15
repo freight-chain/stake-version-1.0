@@ -10,6 +10,7 @@ Gas less method. The stacking wallet only send $EDI to the people who want to ta
 ## How to check to see if you are on the list
 
 View the `list.json` file
+The list is updated every day!!
 
 ## Staking Requirements
 
