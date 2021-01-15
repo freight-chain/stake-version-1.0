@@ -10,7 +10,6 @@ Gas less method. The stacking wallet only send $EDI to the people who want to ta
 
 - Payout is always every other week (bi-weekly)
 - Payout occurs through contract push
-- Contract checks with Registry - Registry is based on Snapshot
 - You must vote 'present' every month to get your bi-weekly stake
 - You can unlock your stacked $EDI every 15 days, at the end of the cycle.
 
