@@ -2,23 +2,9 @@
 New stake method without errors.
 Gas less method. The stacking wallet only send $EDI to the people who want to take the rewards or unlock their $EDI.
 
-##Steps to follow to enter stacking
-
-[Register Ethereum Address](https://forms.gle/13qRpVyJ6FRqwZfFA)
-
-[Check Current Genesis Wallet Addresses](https://docs.google.com/spreadsheets/d/1EY5y3MNUS70a4ttMb6Gqm_Wyz30HwVJEAgZccm4ITpQ/edit#gid=0)
-
-
-## How to check to see if you are on the list
-
-View the `list.json` file
-The list is updated every day!!
-
 ## Staking Requirements
 
-If not on this list of addresses you must [add your address]
-
-- Addresses must send at least 200,000 \$EDI Tokens to the stacking address.
+- You must send at least 200,000 \$EDI Tokens from the same address to the stacking address.
 
 ## Staking Rewards
 
