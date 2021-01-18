@@ -1,6 +1,6 @@
 ## stake-version-1.0
 New stake method without errors.
-Gas less method. The stacking wallet only send $EDI to the people who want to take the rewards or unlock their $EDI.
+Gas less method. The staking wallet only send $EDI to the people who want to take the rewards or unlock their $EDI.
 
 ## Staking Requirements
 
